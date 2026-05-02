@@ -1,7 +1,7 @@
 *This activity has been created as part of the 42 curriculum by chlepain.*
 
 
-# 42---FT_PRINTF
+# 42---PRINTF
 
 **Recoder la fonction printf de la libc en gérant les fonctions variadiques en C.**
 
